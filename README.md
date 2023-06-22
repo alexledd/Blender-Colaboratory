@@ -1,7 +1,7 @@
 ![alt text](https://repository-images.githubusercontent.com/656952604/b1ae251b-033f-48d7-a355-4cb880936ef2)
 
 # Blender Colaboratory
-🛠️ **[WIP]** Render your blend files using Google's Virtual GPU
+🛠️ Render your blend files using Google's Virtual GPU
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexledd/Blender-Colaboratory/blob/main/Simple_Blender_Render.ipynb)
 
