@@ -7,3 +7,6 @@
 ⚙️ Only Blender 3.X.X is available in the dictionary
 
 🗄️ Add your own version of Blender from https://ftp.nluug.nl/pub/graphics/blender/release
+
+---
+🤗 If you have any issues or suggestions, please tell me! Thank you. 
